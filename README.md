@@ -1,5 +1,8 @@
 # Airflow LocalExecutor
 
+![Docker](https://img.shields.io/badge/platform-Docker-brightgreen.svg)
+![Airflow](https://img.shields.io/badge/service-Airflow-brightgreen.svg)
+
 Airflow Local Executor Docker Distribution
 
 ### Features
